@@ -19,3 +19,7 @@
 ```
 node index.js
 ```
+
+4. Customization
+
+You can modify the filters and timeout in `index.js` to your liking.
