@@ -1,6 +1,6 @@
 # Guide
 
-1. Open Chrome in Debug mode
+1. Open Chrome in Debug mode, make sure you quite Chrome first.
 
 ### Mac
 
